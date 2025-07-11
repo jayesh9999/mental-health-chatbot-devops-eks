@@ -2,6 +2,10 @@
 
 A production-grade, AI-powered Mental Health Assistant Chatbot built using Flask, Google Gemini, and LangChain — deployed on AWS EKS with an automated CI/CD pipeline. This project showcases DevOps best practices including Kubernetes orchestration, Docker-based containerization, and Jenkins-powered deployment automation.
 
+
+<img width="815" height="598" alt="Devops_architecure_eks drawio" src="https://github.com/user-attachments/assets/dff23509-e80f-4eab-8b5e-f2540fcaa3d1" />
+
+
 ---
 
 ## 🚀 Project Objective
